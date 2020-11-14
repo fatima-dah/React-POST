@@ -19,4 +19,7 @@
 .Formulaire .form-data input:not([type='submit']) {
   flex-grow: 1;
 }
+.Formulaire h1{
+  text-align: center;
+} 
 
